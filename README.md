@@ -1,3 +1,5 @@
-# MCSA Johannesburg Section
+# .github
 
-This GitHub organisation has been created to store and manage software repositories for various software projects used, created, and/or owned by the Johannesburg Section of the Mountain Club of South Africa.
+This .github repo is a special repo that is used for displaying public information about the overall GitHub organization.
+
+For info on how this works, please read [these docs](ttps://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile).
